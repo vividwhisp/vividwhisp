@@ -1,5 +1,6 @@
 ## Hi there 👋
 # I am Vinesh
+And I am on my journey to be an AI/Ml engineer and data scientist and also making my way through the vast world of open source.
 
 <!--
 **vividwhisp/vividwhisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
