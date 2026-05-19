@@ -2,6 +2,8 @@
 # I am Vinesh
 And I am on my journey to be an AI/Ml engineer and data scientist and also making my way through the vast world of open source.
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=vividwhisp)   
+
 <!--
 **vividwhisp/vividwhisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
