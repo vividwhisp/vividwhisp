@@ -1,6 +1,7 @@
-# Hello People,
-## Myself Vinesh
-# I am on my journey to be an AI/Ml engineer and data scientist and also making my way through the vast world of open source.
+## Hello People,
+
+# Myself Vinesh
+## I am on my journey to be an AI/Ml engineer and data scientist and also making my way through the vast world of open source.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vividwhisp&theme=dark)   
 <!--
