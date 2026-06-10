@@ -1,8 +1,8 @@
 ## Hello People ✌️,
 
-# Myself Vinesh
+# I'm Vinesh,
  Currently a 3rd Year CS student.
- And i am on a journey to be an AI/ML engineer / data scientist and also making my way through the vast world of open source.
+ On a journey to be an AI/ML engineer / data scientist and also making my way through the vast world of open source.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vividwhisp&theme=dark)   
 <!--
