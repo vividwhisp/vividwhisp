@@ -5,9 +5,6 @@
  On a journey to be an AI/ML engineer / data scientist.
 
  Also making my way through the vast world of open source.
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+the+making;Open+Source+%7C+Systems+%7C+Reverse+Engineering;Grinding+to+become+absolutely+cracked" alt="Typing SVG" />
-</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vividwhisp&theme=dark)   
 <!--
